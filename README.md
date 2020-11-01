@@ -1,4 +1,4 @@
-# Sandbox: Reinforcement Learning Toolkit (Under Construction)
+# Sandbox: Reinforcement Learning and Imitation Learning Toolkit (Under Construction)
 
 **Citation:** If you found this useful, please cite it as
 ```bibtex
