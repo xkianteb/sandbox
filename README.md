@@ -4,7 +4,7 @@
 ```bibtex
 @software{brantley-sandbox,
 author = {Kiante Brantley},
-title = {sandbox: Reinforcement Learning Toolkit},
+title = {sandbox: Reinforcement Learning and Imitation Learning Toolkit },
 url = {https://github.com/xkianteb/gym_shallow_atari}
 }
 ```
